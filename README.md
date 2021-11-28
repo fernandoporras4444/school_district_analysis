@@ -55,5 +55,14 @@ The project analysis results are categorized into the following:
       
         ![school summary without ths_9_nan](https://user-images.githubusercontent.com/92836648/143785726-b7c04231-a871-4f28-9459-873668c0189c.png)
         
+   - High and Low Performing Schools:
+
+
+
+   - Math and Reading Scores by Grade
+   - Scores by School Spending
+   - Scores by School Size
+   - Scores by School Type
+        
 
 
