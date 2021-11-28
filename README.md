@@ -13,6 +13,12 @@ The project analysis results are categorized into the following:
   - Scores by School Type
 
 ## School District Analysis Results
-  -Overall Distrtict Summary:
-    Indicates minimal data with no effects to the overall district summary
+  -Overall District Summary:
+    Indicates minimal data with no effects to the overall district summary:
+    
+    - Overall District Summary
+    ![district summary](https://user-images.githubusercontent.com/92836648/143784006-f50c9501-99a5-4c87-ae83-58a89b858773.png)
+    
+    - Overall District Summary without Thomas High School 9th grader scores
+    
     
