@@ -57,8 +57,14 @@ The project analysis results are categorized into the following:
         
    - High and Low Performing Schools:
 
+      - 5 Highest Performing Schools
+        
+        ![Top 5 High Performing Schools](https://user-images.githubusercontent.com/92836648/143786938-9f2a40de-8a07-4b70-b7ff-8aaad8987a76.png)
 
+      - 5 Lowest Performing Schools
 
+        ![Low 5 High Performing Schools](https://user-images.githubusercontent.com/92836648/143786943-ef8a20b9-4505-42f9-9d35-891e6ae039fd.png)
+        
    - Math and Reading Scores by Grade
    - Scores by School Spending
    - Scores by School Size
@@ -66,3 +72,7 @@ The project analysis results are categorized into the following:
         
 
 
+
+![scores by school size](https://user-images.githubusercontent.com/92836648/143786946-0b3077f8-88f4-4137-a66c-4039185e5c44.png)
+![scores by school spending](https://user-images.githubusercontent.com/92836648/143786947-f721ea5b-35f8-4ea1-ac9d-f7196b90941c.png)
+![scores by school type](https://user-images.githubusercontent.com/92836648/143786948-8ce4b7e7-6851-4f09-ac4f-5bccafe3bbbd.png)
