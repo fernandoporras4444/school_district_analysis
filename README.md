@@ -89,4 +89,4 @@ The project analysis results are categorized into the following:
 
 
 ## Summary:
-The revised coding for handle Thomas High School 9th grade scores required first to identify and change math and reading scores to NaN values, second filter out dataframe information pertaining to THS 9th grader scores, third to recount the total student minus THS 9th graders, and fourth re-evaluate the all different report outputs with removed THS 9th grade scores.
+The revised coding `PyCitySchools_Challenge` for handle Thomas High School 9th grade scores required first to identify and change math and reading scores to NaN values, second filter out dataframe information pertaining to THS 9th grader scores, third to recount the total student minus THS 9th graders, and fourth re-evaluate the all different report outputs with removed THS 9th grade scores.
