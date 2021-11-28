@@ -34,7 +34,13 @@ The project analysis results are categorized into the following:
         ![district summary without ths_9 overall_passing_percentage](https://user-images.githubusercontent.com/92836648/143784793-2c8e6332-820b-4b9e-bc69-f16c794875f1.png)
         
   - Overall School Summary:
-    Indicates a 
+    Indicates a signifficant drop in % Passing Math, % Passing Reading, and % Overall with dataframes values evaluated from original analysis, THS 9th grade scores set to NaN,
+    and analysis without THS 9th grade scores:
+    
+      
 
+        ![school summary with ths_9_nan](https://user-images.githubusercontent.com/92836648/143785725-09d05c59-8e94-45c7-a58f-e75a664fec2d.png)
+        ![school summary without ths_9_nan](https://user-images.githubusercontent.com/92836648/143785726-b7c04231-a871-4f28-9459-873668c0189c.png)
+        ![school summary](https://user-images.githubusercontent.com/92836648/143785727-d953082e-ddce-45cb-bc8e-07a10de97f42.png)
 
 
