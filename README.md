@@ -66,13 +66,29 @@ The project analysis results are categorized into the following:
         ![Low 5 High Performing Schools](https://user-images.githubusercontent.com/92836648/143786943-ef8a20b9-4505-42f9-9d35-891e6ae039fd.png)
         
    - Math and Reading Scores by Grade
+
+      - Math Scores
+
+        ![Math scores by grade](https://user-images.githubusercontent.com/92836648/143787084-41bfe3a7-8344-4c9e-836e-c9c77c0f80db.png)
+        
+      - Reading Scores
+
+        ![Reading scores by grade](https://user-images.githubusercontent.com/92836648/143787089-3ebc6c06-be5f-4c90-b1b5-0573ce60d598.png)
+        
    - Scores by School Spending
+
+        ![scores by school spending](https://user-images.githubusercontent.com/92836648/143786947-f721ea5b-35f8-4ea1-ac9d-f7196b90941c.png)
+        
    - Scores by School Size
+
+        ![scores by school size](https://user-images.githubusercontent.com/92836648/143786946-0b3077f8-88f4-4137-a66c-4039185e5c44.png)
+        
    - Scores by School Type
         
+        ![scores by school type](https://user-images.githubusercontent.com/92836648/143786948-8ce4b7e7-6851-4f09-ac4f-5bccafe3bbbd.png)
 
 
 
-![scores by school size](https://user-images.githubusercontent.com/92836648/143786946-0b3077f8-88f4-4137-a66c-4039185e5c44.png)
-![scores by school spending](https://user-images.githubusercontent.com/92836648/143786947-f721ea5b-35f8-4ea1-ac9d-f7196b90941c.png)
-![scores by school type](https://user-images.githubusercontent.com/92836648/143786948-8ce4b7e7-6851-4f09-ac4f-5bccafe3bbbd.png)
+
+
+
