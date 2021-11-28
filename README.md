@@ -35,12 +35,25 @@ The project analysis results are categorized into the following:
         
   - Overall School Summary:
     Indicates a signifficant drop in % Passing Math, % Passing Reading, and % Overall with dataframes values evaluated from original analysis, THS 9th grade scores set to NaN,
-    and analysis without THS 9th grade scores:
+    but analysis without THS 9th grade scores show minimal changes:
     
+      |               | Original Analysis | THS 9th grade scores (NaN)  | Analysis without THS 9th grade scores |
+      |---------------|-------------------|-----------------------------|---------------------------------------|
+      |%Passing Math    | 93.2% | 66.9% | 93.1% |
+      |%Passing Reading | 97.3% | 69.6% | 97.0% |
+      |%Overall Passing | 90.9% | 65.0% | 90.6% |
+
+      - Original Analysis
       
+        ![school summary](https://user-images.githubusercontent.com/92836648/143785727-d953082e-ddce-45cb-bc8e-07a10de97f42.png)
+        
+      - THS 9th grade scores (NaN)
 
         ![school summary with ths_9_nan](https://user-images.githubusercontent.com/92836648/143785725-09d05c59-8e94-45c7-a58f-e75a664fec2d.png)
+        
+      - Analysis without THS 9th grade scores
+      
         ![school summary without ths_9_nan](https://user-images.githubusercontent.com/92836648/143785726-b7c04231-a871-4f28-9459-873668c0189c.png)
-        ![school summary](https://user-images.githubusercontent.com/92836648/143785727-d953082e-ddce-45cb-bc8e-07a10de97f42.png)
+        
 
 
